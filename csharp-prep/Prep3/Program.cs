@@ -11,7 +11,7 @@ class Program
         {
            
             Random randomGenerator = new Random();
-            int mgcnum = randomGenerator.Next(1, 100);
+            int mgcnum = randomGenerator.Next(1, 101);
 
             Console.Write("What is your guess? ");
 
